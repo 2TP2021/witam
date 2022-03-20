@@ -3,3 +3,4 @@
 - smacznej
 + kawy
 - i herbaty
+- koli
